@@ -1,0 +1,83 @@
+html,
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: inherit;
+  overflow-y: auto;
+  overflow-x: hidden;
+  font-weight: 500;
+  font-size: 12px;
+  margin: 0;
+  height: 100%;
+}
+
+#app {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: inherit;
+  height: 100%;
+}
+
+
+.logo {
+  font-family: 'Montserrat', sans-serif;
+
+  font-weight: 800;
+  font-size: 24px !important;
+  line-height: 28px;
+  color: white;
+}
+
+.nav-list {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 16px !important;
+  line-height: 28px;
+  color: white;
+}
+
+.top-bar-date {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 24px !important;
+  line-height: 28px;
+  color: white;
+}
+
+.dashboard-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 16px !important;
+  line-height: 28px;
+  color: white;
+}
+
+.dashboard-daily-summary {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 26px !important;
+  line-height: 28px;
+  color: white;
+}
+
+.daily-summary-para{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px !important;
+  line-height: 28px;
+  color: white;
+}
+
+.bold-daily {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 16px !important;
+  line-height: 28px;
+  color: white;
+}
+
+.dashboard-bar-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px !important;
+  line-height: 28px;
+  color: white;
+}
